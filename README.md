@@ -1,5 +1,6 @@
 # Simulação de Semáforo com Temporizador Periódico
-TUnidade 4 - Capítulo 5
+Yasmin Damasceno Cruz - TIC370101610
+Unidade 4 - Capítulo 5
 
 Este projeto implementa a simulação de um semáforo utilizando um temporizador periódico de 3 segundos, empregando a função add_repeating_timer_ms() do Pico SDK. A cada 3 segundos, o semáforo alterna entre os sinais vermelho, amarelo e verde. Além disso, a rotina principal exibe mensagens na porta serial a cada 1 segundo.
 
