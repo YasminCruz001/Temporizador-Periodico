@@ -11,7 +11,6 @@ O código é escrito em C e executado no microcontrolador Raspberry Pi Pico W. A
 - 1x Microcontrolador Raspberry Pi Pico W
 - 3x LEDs (vermelho, amarelo e verde)
 - 3x Resistores de 330 Ω
-- Raspberry Pi Pico W
 
 ## Configuração Inicial
 
